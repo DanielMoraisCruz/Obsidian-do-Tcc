@@ -14,8 +14,45 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "514ef51bfbc7aeb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anki do TCC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60494953b6e04ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "981327fc5628203b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TODO.md"
+              }
             }
           },
           {
@@ -134,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d0aa918a21daa66",
+  "active": "981327fc5628203b",
   "lastOpenFiles": [
+    "APS.md",
+    "TODO.md",
+    "Anki do TCC.md",
     "Obsidian-do-Tcc",
     "TCC.md",
     "Welcome.md"
